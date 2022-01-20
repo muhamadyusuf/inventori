@@ -1,1 +1,1 @@
-# inventori
+# Aplikasi Inventori Barang Dengan Java
